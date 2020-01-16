@@ -2,12 +2,22 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.parasoft</groupId>
   <artifactId>parasoft-annotations</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Parasoft Annotations</name>
   <description>These annotations are available from Parasoft under an open-source license.</description>
   <url>https://github.com/parasoft/annotations</url>
+
+  <developers>
+    <developer>
+      <id>mattloveparasoft</id>
+      <name>Matt Love</name>
+      <email>matt.love@parasoft.com</email>
+      <organization>Parasoft</organization>
+      <organizationUrl>https://www.parasoft.com</organizationUrl>
+    </developer>
+  </developers>
 
   <organization>
     <name>Parasoft</name>

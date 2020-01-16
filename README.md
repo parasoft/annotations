@@ -8,6 +8,7 @@ Include Parasoft Annotations as a Maven Dependecy
     <dependency>
       <groupId>com.parasoft</groupId>
       <artifactId>parasoft-annotations</artifactId>
+      <scope>test</scope>
       <version>1.0</version>
     </dependency>
 ```
